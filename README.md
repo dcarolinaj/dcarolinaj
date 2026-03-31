@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello! Welcome to my Data Analytics portfolio, where I transform data into actionable insights that support decision-making and process improvement.</h1>
 
 ###
 
