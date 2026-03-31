@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Carolina and I'm a ..., from ....</p>
+<p align="left">Economist with a Master’s in Business Analytics and training in Data Analytics. Specialised in transforming data into strategic insights through data cleaning, modelling, and analysis. I contribute to process optimisation and decision-making by delivering data-driven solutions and improving operational efficiency.
+</p>
 
 ###
 
