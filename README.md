@@ -8,9 +8,8 @@
 #####
 
 <h2 align="left">About Me</h2>
-<p>
 Economist with a Master’s in Business Analytics and training in Data Analytics. Specialised in transforming data into strategic insights through data cleaning, modelling, and analysis. I contribute to process optimisation and decision-making by delivering data-driven solutions and improving operational efficiency.
-</p>
+</h2>
 
 ###
 
